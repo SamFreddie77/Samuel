@@ -35,10 +35,10 @@ int main()
     int i,num;
     struct student f[20]  ;
     struct Marks m[4];
-    struct Maths t[1];
-    struct Science s[1];
-    struct Economics e[1];
-    struct Electrical l[1];
+    struct Maths t[2];
+    struct Science s[2];
+    struct Economics e[2];
+    struct Electrical l[2];
     cout<<"*******Student Database Project*******"<<endl;
     cout<<"\n\nEnter the number of Students :";
     cin>>num;
